@@ -1,0 +1,2 @@
+# gocompress
+compression "Hello World"
